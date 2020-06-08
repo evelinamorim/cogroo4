@@ -1,10 +1,15 @@
-[CoGrOO: Apache Open|LibreOffice Grammar Checker](http://cogroo.org)
+[CoGrOO: Apache Open|LibreOffice Grammar Checker - JAVA 11](http://cogroo.org)
 ====================================================================
 
 [![Build Status](https://travis-ci.org/cogroo/cogroo4.svg?branch=master)](https://travis-ci.org/cogroo/cogroo4)
 [![Coverage Status](https://coveralls.io/repos/github/cogroo/cogroo4/badge.svg?branch=master)](https://coveralls.io/github/cogroo/cogroo4?branch=master)
 
 Here you will find the source code of CoGrOO version 4.x.
+
+Fork modifications
+------------
+
+In this fork, I tried to change the JAVA 8 standard to JAVA 11. Versions of libraries were also modified.
 
 Source organization
 ------------
